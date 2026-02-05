@@ -41,7 +41,7 @@ The similarsites.com lookup will show the authenticity of the web address you se
 For example, you would send https://www.similarsites.com/site/loremipsum.io if you wanted Lorem Ipsum to receive a share.
 
 ### Thank you with the whole of my heart and have a nice day!
-If you wish a permanent shoutout on my little site just mention when contacting me :)
+If you wish a permanent shoutout on [my little site](https://t.ly/0I4uH) just mention when contacting me :)
 
 ### *[pt-BR]*
 **Cidadãos brasileiros**: doe
@@ -59,4 +59,4 @@ Isso é para evitar domínios fraudulentos e enganosos.
 Por exemplo, enviaria https://www.similarsites.com/site/loremipsum.io se quisesse que Lorem Ipsum recebesse sua fatia.
 
 ### Meu muito obrigado pela sua contribuição e tenha um excelente resto de dia, semana ou mês!
-Se quiser um "salve" permanente no meu site, diz na sua mensagem :)
+Se quiser um "salve" permanente no [meu site](https://t.ly/0I4uH), diz na sua mensagem :)
