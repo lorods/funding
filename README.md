@@ -33,7 +33,7 @@ Because after all, you probably wouldn't be able download a three-dimensional mo
 I'll be honored to fulfill this commitment. For the time being, please go with option(s) 1 and/or 2 as I search for an efficient platform to handle international donations.
 
 **Brazilian citizens**: all of the above, plus
-*  donate using your preferred method [here](link.mercadopago.com.br/contribslorod). **Please tell me what institution you'd like me to send half of your donation to.**
+*  donate using your preferred method [here](https://link.mercadopago.com.br/contribslorod). **Please tell me what institution you'd like me to send half of your donation to.**
 
 #### Once the transfer is complete, ping me on Matrix or via email (links are in my profile) with your receipt attached and point me to the org I should share the donation with, preferably including their page on similarsites.com.
 
@@ -51,7 +51,7 @@ If you wish a permanent shoutout on [my little site](https://t.ly/0I4uH) just me
 * Internet Archive (mantenedores da ferramenta web.archive.org)
 * Wikimedia Foundation (desenvolvedores do projeto Wikipédia)
 * KDE (titulares do ambiente desktop Plasma).
-> Doe com o meio desejado [aqui](link.mercadopago.com.br/contribslorod). **Favor mencionar a instituição para a qual você quer que eu envie metade do valor de sua doação.**
+> Doe com o meio desejado [aqui](https://link.mercadopago.com.br/contribslorod). **Favor mencionar a instituição para a qual você quer que eu envie metade do valor de sua doação.**
 
 #### Uma vez que a transferência tenha sido concluída, me acione no Matrix ou via email (links em meu perfil aqui no GitHub) com seu comprovante anexado e dirija-me à organização 	que desejar, preferencialmente indicando sua página no similarsites.com, a fim de os donativos serem repassados corretamente. 
 
