@@ -30,7 +30,7 @@ Because after all, you probably wouldn't be able download a three-dimensional mo
 * Wikimedia Foundation (including but not limited to Wikipedia developers)
 * KDE (makers of the Plasma desktop environment).
 
-I'll be honored to fulfill this commitment. For the time being, please go with option(s) 1 and/or 2 as I search for an efficient platform to handle international donations.
+I'll be honored to fulfill this commitment. You can send any amount to the Bitcoin address that is at https://www.blockchain.com/explorer/addresses/btc/bc1qufrmx28twr4mk3vcflnmc0tsy266vre0n88hgx. [QR code here](https://github.com/lorods/funding?tab=readme-ov-file#bitcoin-address-in-qr-code-format-/-endereço-btc-em-qr-code).  
 
 **Brazilian citizens**: all of the above, plus
 *  donate using your preferred method [here](https://link.mercadopago.com.br/contribslorod). **Please tell me what institution you'd like me to send half of your donation to.**
@@ -51,7 +51,9 @@ If you wish a permanent shoutout on [my little site](https://t.ly/0I4uH) just me
 * Internet Archive (mantenedores da ferramenta web.archive.org)
 * Wikimedia Foundation (desenvolvedores do projeto Wikipédia)
 * KDE (titulares do ambiente desktop Plasma).
-> Doe com o meio desejado [aqui](https://link.mercadopago.com.br/contribslorod). **Favor mencionar a instituição para a qual você quer que eu envie metade do valor de sua doação.**
+> Doe qualquer valor com o meio desejado [aqui (moeda local)](https://link.mercadopago.com.br/contribslorod) ou para [este endereço Bitcoin](https://www.blockchain.com/explorer/addresses/btc/bc1qufrmx28twr4mk3vcflnmc0tsy266vre0n88hgx) — [QR code aqui](https://github.com/lorods/funding?tab=readme-ov-file#endereço-btc-em-código-qr). 
+
+**Favor mencionar a instituição para a qual você quer que eu envie metade do valor de sua doação.**
 
 #### Uma vez que a transferência tenha sido concluída, me acione no Matrix ou via email (links em meu perfil aqui no GitHub) com seu comprovante anexado e dirija-me à organização 	que desejar, preferencialmente indicando sua página no similarsites.com, a fim de os donativos serem repassados corretamente. 
 
@@ -60,3 +62,9 @@ Por exemplo, enviaria https://www.similarsites.com/site/loremipsum.io se quisess
 
 ### Meu muito obrigado pela sua contribuição e tenha um excelente resto de dia, semana ou mês!
 Se quiser um "salve" permanente no [meu site](https://t.ly/0I4uH), diz na sua mensagem :)
+
+
+---
+#### Bitcoin address in QR code format / endereço BTC em QR code
+Below is an image, so it's harder to be tampered with.
+ ![](./btcaddr.png)
