@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<meta charset="utf-8"/>
-</head>
-<body>
 <h1>[EN-US] NO LONGER ACCEPTING DONATIONS. THE PAST INITIATIVE CAN BE FOUND BELOW. THANK YOU FOR YOUR UNDERSTANDING!</h1>
 <h1>[PT-BR] DOAÇÕES DESCONTINUADAS. PARA FINS ESTRITAMENTE DE CONSULTA, A INICIATIVA ORIGINAL PERMANECE ABAIXO, NA ÍNTEGRA. AGRADEÇO A COMPREENSÃO!</h1>
 <del>
@@ -72,5 +65,3 @@ Por exemplo, enviaria <a href="https://www.similarsites.com/site/loremipsum.io">
 <p>Below is an image, so it&#39;s harder to be tampered with.</p>
 <img src="./btcaddr.png" alt="">
 </del>
-</body>
-</html>
